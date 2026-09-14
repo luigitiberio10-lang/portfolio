@@ -1,2 +1,2 @@
-# Thesis
-My Bachelor's degree thesis on "The Impact of Streaming on the Music Industry: An Analysis of Revenue Distribution Models Across Platforms, Record Labels, and Artists"
+# Portfolio
+Hello world! Here are some of my projects and researches that I've done in the last years. There’s still a long road ahead, but the best is yet to come!
